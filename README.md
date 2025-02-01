@@ -5,7 +5,6 @@
 
 ![Hermes GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
-https://github.com/HermesNonato8/github-readme-stats
 
 ## Tecnologias que eu utilizo, ou estou aprendendo
 
