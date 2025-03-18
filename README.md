@@ -6,6 +6,8 @@
 ![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8)](https://github.com/HermesNonato8/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
