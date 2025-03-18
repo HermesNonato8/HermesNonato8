@@ -3,12 +3,12 @@
 [![Email: hermesnonato.dev@gmal.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hermesnonato.dev@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermes-nonato)
 
-![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact)
+![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&hide_progress=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8)](https://github.com/HermesNonato8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8)](https://github.com/HermesNonato8/github-readme-stats)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
 
