@@ -5,13 +5,8 @@
 
 ![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=transparent)
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
 
 ## Tecnologias que eu utilizo, ou estou aprendendo
 
