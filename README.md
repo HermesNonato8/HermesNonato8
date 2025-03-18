@@ -6,7 +6,7 @@
 ![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato8&show_icons=true&theme=transparent)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/Top Languages/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HermesNonato8&layout=compact)](https://github.com/HermesNonato8/github-readme-stats)
 
 ## Tecnologias que eu utilizo, ou estou aprendendo
 
